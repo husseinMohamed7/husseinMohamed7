@@ -3,7 +3,7 @@
 
 ---
 
-#### 🎯 I'm a Computer and Systems Engineering graduate, currently enrolled in the **ITI Data Engineering Track ICC (2025/2026)**.
+#### 🎯 I'm a Computer and Systems Engineering graduate, currently enrolled in the **ITI Data Engineering Track ICC**.
 #### I’m focused on mastering data tools and engineering workflows to build scalable, efficient data systems.
 
 ---
