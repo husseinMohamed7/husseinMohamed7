@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=husseinMohamed7&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husseinMohamed7&theme=github-dark" alt="GitHub Streak" />
 </div>
 
 ---
