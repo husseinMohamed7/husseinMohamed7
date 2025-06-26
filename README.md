@@ -28,13 +28,6 @@
 
 ---
 
-### 📊 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husseinMohamed7&theme=github-dark" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/hussein-mohamed7/" target="_blank">
