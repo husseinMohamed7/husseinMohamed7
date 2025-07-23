@@ -5,7 +5,7 @@
 
 <p align="center">
 I'm a Computer and Systems Engineering graduate passionate about Data Engineering, Systems Design, and Problem Solving.  
-Currently enrolled in the ITI Data Engineering Track ICC***, building strong expertise in data pipelines, big data technologies, and system optimization.
+Currently enrolled in the ITI Data Engineering Track ICC, building strong expertise in data pipelines, big data technologies, and system optimization.
 </p>
 
 ---
