@@ -3,32 +3,33 @@
 
 ---
 
-#### 🎯 I'm a Computer and Systems Engineering graduate, currently enrolled in the **ITI Data Engineering Track ICC**.
-#### I’m focused on mastering data tools and engineering workflows to build scalable, efficient data systems.
+<p align="center">
+I'm a Computer and Systems Engineering graduate passionate about Data Engineering, Systems Design, and Problem Solving.  
+Currently enrolled in the ITI Data Engineering Track ICC***, building strong expertise in data pipelines, big data technologies, and system optimization.
+</p>
 
 ---
 
-### 🚀 Track Overview @ ITI
-- **Languages & OS:** Python, Linux, Bash
-- **Databases:** SQL (MySQL/PostgreSQL), NoSQL
-- **Data Handling:** Pandas, NumPy, Matplotlib
-- **Big Data & Warehousing:** Hadoop basics, DWH concepts, data exploration/visualization
-- **Processing & Pipelines:** Spark intro, workflow scheduling, CI/CD
-- **Cloud & Containers:** AWS basics, Docker intro
-- **Workshops:** Agile, OS, Networking, Software Testing
-- **Soft Skills:** Communication, CV Writing, Freelancing, Work Ethics
-- **GenAI:** Prompt engineering & generative AI intro
+### Skills
+- **Computer Engineering:** Data Structures & Algorithms, Operating Systems, Computer Networks  
+- **Databases & SQL:** Microsoft SQL Server, Query Optimization, Database Design, Data Modeling  
+- **Programming:** Python, Shell Scripting, C  
+- **Data Tools:** ETL Processes, Pandas  
+- **Version Control & Deployment:** Git, Docker  
+- **Platforms:** Linux  
+- **Others:** Agile Methodologies, Visualization (Apache Superset)  
 
 ---
 
-### 🧰 Background Snapshot
-- **Programming:** C, Python, Bash
-- **Systems:** Linux, Git, Algorithms & Data Structures
-- **Electronics:** Hands-on PCB & embedded systems experience
+## Background Snapshot
+- **Programming:** MATLAB  
+- **Electronics & Embedded Systems:** Digital & Analog Electronics, Control Systems, PCB Design, FPGA (Verilog)  
+- **Specialized Knowledge:** Microprocessors, Robotics, AI & Machine Learning (Graduation Project)  
+- **Practical Skills:** PCB manufacturing basics, electronic circuit design, system troubleshooting  
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/hussein-mohamed7/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" />
@@ -45,6 +46,9 @@
 
 ---
 
-If you're on a similar path, feel free to connect or share ideas!
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=husseinMohamed7&label=Visitors&color=0e75b6&style=flat" alt="Hussein" /> </p>
-
+<p align="center">
+If you're on a similar path, feel free to connect or share ideas!  
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=husseinMohamed7&label=Visitors&color=0e75b6&style=flat" alt="Hussein" />
+</p>
