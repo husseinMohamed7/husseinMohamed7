@@ -23,7 +23,7 @@ Currently enrolled in the ITI Data Engineering Track ICC, building strong expert
 
 ## Background Snapshot
 
-**Programming:** MATLAB, C#
+**Programming:** MATLAB, C#  
 **Electronics & Embedded Systems:** Digital & Analog Electronics, Control Systems, PCB Design, FPGA (Verilog)  
 **Specialized Knowledge:** Microprocessors, Robotics, AI & Machine Learning (Graduation Project)  
 **Practical Skills:** PCB manufacturing basics, electronic circuit design, system troubleshooting  
