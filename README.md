@@ -33,17 +33,24 @@ Currently enrolled in the ITI Data Engineering Track ICC, building strong expert
 ---
 
 ### Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/hussein-mohamed7/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/hussein7mohamed8" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@hussein7m" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube" height="30" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/hussein-mohamed7/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/profile/hussein7mohamed8" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="30" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@hussein7m" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="30" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
