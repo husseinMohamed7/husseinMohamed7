@@ -12,7 +12,8 @@ Currently enrolled in the ITI Data Engineering Track ICC, building strong expert
 
 ## Skills
 - **Computer Engineering:** Data Structures & Algorithms, OOP, Operating Systems, Computer Networks  
-- **Databases & SQL:** Microsoft SQL Server, Query Optimization, Database Design, Data Modeling  
+- **Databases & SQL:** Microsoft SQL Server, Query Optimization, Database Design, Data Modeling
+- **NoSQL:** MongoDB
 - **Programming:** Python, Shell Scripting 
 - **Data Tools:** ETL Processes, Pandas  
 - **Version Control & Deployment:** Git, Docker  
