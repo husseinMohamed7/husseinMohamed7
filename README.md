@@ -1,6 +1,6 @@
 <h1 align="center">Hussein Mohamed</h1>
 <h3 align="center">Data Engineering Trainee @ ITI</h3>
-s
+
 ---
 
 <p align="center">
@@ -24,7 +24,7 @@ Currently enrolled in the ITI Data Engineering Track ICC, building strong expert
 
 ## Background Snapshot
 
-**Programming:** MATLAB, C, C#  
+**Programming:** MATLAB, C
 **Electronics & Embedded Systems:** Digital & Analog Electronics, Control Systems, PCB Design, FPGA (Verilog)  
 **Specialized Knowledge:** Microprocessors, Robotics, AI & Machine Learning (Graduation Project)  
 **Practical Skills:** PCB manufacturing basics, Electronic circuit design, System troubleshooting  
