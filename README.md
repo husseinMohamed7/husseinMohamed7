@@ -12,24 +12,26 @@ Currently enrolled in the ITI Data Engineering Track ICC, building strong expert
 
 ## Skills
 - **Computer Engineering:** Data Structures & Algorithms, OOP, Operating Systems, Computer Networks  
-- **Databases & SQL:** Microsoft SQL Server, Query Optimization, Database Design, Data Modeling
-- **NoSQL:** MongoDB
-- **Programming:** Python, Shell Scripting 
-- **Data Tools:** ETL Processes, Pandas  
+- **Databases & SQL:** Microsoft SQL Server, PostgreSQL, Query Optimization, Database Design, Data Modeling  
+- **Data Warehousing:** Schema Design (Star, Snowflake), ETL/ELT Processes, Data Warehouse Concepts  
+- **Cloud Data Platforms:** Snowflake  
+- **NoSQL:** MongoDB  
+- **Programming:** Python, Shell Scripting  
+- **Data Tools & Frameworks:** Airflow, dbt, Pandas, Power BI, Apache Superset  
 - **Version Control & Deployment:** Git, Docker  
 - **Platforms:** Linux  
-- **Others:** Agile Methodologies, Visualization (Apache Superset)  
+- **Others:** Agile Methodologies  
 
 ---
 
 ## Background Snapshot
 
-**Programming:** MATLAB, C
+**Programming:** MATLAB, C  
 **Electronics & Embedded Systems:** Digital Electronics, Control Systems, PCB Design, FPGA (Verilog)  
 **Specialized Knowledge:** Microprocessors, Robotics, AI & Machine Learning (Graduation Project)  
 **Practical Skills:** PCB manufacturing basics, Electronic circuit design, System troubleshooting  
 **Mathematics Foundation:** Linear Algebra, Calculus, Probability & Statistics, Discrete Mathematics  
-**Tools & Software:** MATLAB/Simulink, KiCad
+**Tools & Software:** MATLAB/Simulink, KiCad  
 
 ---
 
@@ -53,5 +55,3 @@ Currently enrolled in the ITI Data Engineering Track ICC, building strong expert
     </td>
   </tr>
 </table>
-
-
