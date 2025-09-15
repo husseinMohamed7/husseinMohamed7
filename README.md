@@ -1,57 +1,113 @@
-<h1 align="center">Hussein Mohamed</h1>
-<h3 align="center">Data Engineering Trainee @ ITI</h3>
+<h1 align="center" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20000&duration=3000&pause=4000&center=true&vCenter=true&width=700&height=100&size=50&lines=Hussein+Mohamed" alt="Typing SVG" />
+</h1>
+<h2 align="center">Data Engineering Trainee @ ITI</h2>
+
+<h3 align="center">
+Computer & Systems Engineering graduate passionate about Data Engineering, Systems Design, and Problem Solving.  
+Currently training at ITI (ICC) to build expertise in data pipelines, big data, and system optimization.
+</h3>
 
 ---
 
+<h1 align="center">🛠 Skills</h1>  
+
+### 📊 Data Engineering & Analytics  
 <p align="center">
-I'm a Computer and Systems Engineering graduate passionate about Data Engineering, Systems Design, and Problem Solving.  
-Currently enrolled in the ITI Data Engineering Track ICC, building strong expertise in data pipelines, big data technologies, and system optimization.
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Design-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Superset-1A73E8?style=for-the-badge&logo=apache&logoColor=white" />
+</p>  
+
+### 💻 Programming & Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 🧑‍💻 Computer Engineering Foundation  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures-006600?style=for-the-badge&logo=abstract&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-660066?style=for-the-badge&logo=abstract&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-FF5733?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-008080?style=for-the-badge&logo=windows95&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networks-2E86C1?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Math-8E44AD?style=for-the-badge&logo=wolfram-mathematica&logoColor=white" />
+</p>  
+
+---
+
+<h1 align="center">📝 Publications</h1>  
+
+<p align="center">
+  <b>Vehicle Trajectory-Based Intersection Classification Using Deep Transfer Learning</b><br/>
+  <a href="https://ieeexplore.ieee.org/document/10776444" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE_Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  </a><br/>
+  <i>2024 International Conference on Intelligent Computing, Communication, Networking and Services (ICCNS)</i>
 </p>
 
 ---
 
-## Skills
-- **Computer Engineering:** Data Structures & Algorithms, OOP, Operating Systems, Computer Networks  
-- **Databases & SQL:** Microsoft SQL Server, PostgreSQL, Query Optimization, Database Design, Data Modeling  
-- **Data Warehousing:** Schema Design (Star, Snowflake), ETL/ELT Processes, Data Warehouse Concepts  
-- **Cloud Data Platforms:** Snowflake  
-- **NoSQL:** MongoDB  
-- **Programming:** Python, Shell Scripting  
-- **Data Tools & Frameworks:** Airflow, dbt, Pandas, Power BI, Apache Superset  
-- **Version Control & Deployment:** Git, Docker  
-- **Platforms:** Linux  
-- **Others:** Agile Methodologies  
+<h1 align="center">🎓 Background Snapshot</h1>  
+<h3 align="center">
+  MATLAB · C · Robotics · AI & Machine Learning (Graduation Project) · Control Systems · Digital Electronics · PCB Design (KiCad) · FPGA (Verilog)
+</h3>
 
 ---
 
-## Background Snapshot
+<h1 align="center">📊 GitHub Stats</h1>  
 
-**Programming:** MATLAB, C  
-**Electronics & Embedded Systems:** Digital Electronics, Control Systems, PCB Design, FPGA (Verilog)  
-**Specialized Knowledge:** Microprocessors, Robotics, AI & Machine Learning (Graduation Project)  
-**Practical Skills:** PCB manufacturing basics, Electronic circuit design, System troubleshooting  
-**Mathematics Foundation:** Linear Algebra, Calculus, Probability & Statistics, Discrete Mathematics  
-**Tools & Software:** MATLAB/Simulink, KiCad  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=husseinMohamed7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=husseinMohamed7&theme=dark&hide_border=false" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinMohamed7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+</p>
 
 ---
 
-### Connect With Me
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/hussein-mohamed7/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.hackerrank.com/profile/hussein7mohamed8" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="30" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/@hussein7m" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="30" />
-      </a>
-    </td>
-  </tr>
-</table>
+<h1 align="center">🌐 Connect With Me</h1>  
+
+<p align="center">
+  <a href="https://husseinmohamed7.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hussein-mohamed7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@hussein7m" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+  <a href="mailto:hussein7mohamed8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/hussein7mohamed8" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h1 align="center">💰 Support My Work</h1>  
+<p align="center">
+  <a href="https://paypal.me/hussein7m">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+</p>
