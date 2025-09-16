@@ -15,7 +15,7 @@ Currently training at ITI (ICC) to build expertise in data pipelines, big data, 
 
 <h1 align="center">🛠 Skills</h1>  
 
-### 📊 Data Engineering & Analytics  
+<h3 align="center">Data Engineering & Analytics</h1>  
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -28,9 +28,10 @@ Currently training at ITI (ICC) to build expertise in data pipelines, big data, 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache%20Superset-1A73E8?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20NIFI-1A73E8?style=for-the-badge&logo=apache%20nifi&logoColor=white" />
-</p>  
+</p>
 
-### 💻 Programming & Development  
+<h3 align="center">Programming & Development</h1>  
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -43,7 +44,8 @@ Currently training at ITI (ICC) to build expertise in data pipelines, big data, 
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-### 🧑‍💻 Computer Engineering Foundation  
+<h3 align="center">Computer Engineering Foundation  </h1>  
+
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Structures-006600?style=for-the-badge&logo=abstract&logoColor=white" />
   <img src="https://img.shields.io/badge/Algorithms-660066?style=for-the-badge&logo=abstract&logoColor=white" />
