@@ -1,6 +1,12 @@
 <h1 align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=20000&duration=3000&pause=4000&center=true&vCenter=true&width=700&height=100&size=50&lines=Hussein+Mohamed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Ink&duration=3000&pause=4000&center=true&vCenter=true&rtl=true&width=435&size=50&lines=%D8%AD%D8%B3%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%8A%D9%86" alt="Typing SVG" />
 </h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Reem+Kufi+Ink&duration=3000&pause=4000&center=true&vCenter=true&width=435&size=50&lines=%D8%AD%D8%B3%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D9%8A%D9%86" alt="Typing SVG" />
+</h1>
+
+
 <h2 align="center">Data Engineering Trainee @ ITI</h2>
 
 <h3 align="center">
@@ -24,6 +30,7 @@ Currently training at ITI (ICC) to build expertise in data pipelines, big data, 
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache%20Superset-1A73E8?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20NIFI-1A73E8?style=for-the-badge&logo=apache%20nifi&logoColor=white" />
 </p>  
 
 ### 💻 Programming & Development  
@@ -65,12 +72,10 @@ Currently training at ITI (ICC) to build expertise in data pipelines, big data, 
 
 <h1 align="center">🎓 Background Snapshot</h1>  
 <h3 align="center">
-  MATLAB · C · Robotics · AI & Machine Learning (Graduation Project) · Control Systems · Digital Electronics · PCB Design (KiCad) · FPGA (Verilog)
+  AI & Machine Learning (Graduation Project) . MATLAB · C · Robotics · Control Systems · Digital Electronics · PCB Design (KiCad-Protues) · FPGA (Verilog)
 </h3>
 
 ---
-
-<h1 align="center">📊 GitHub Stats</h1>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=husseinMohamed7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
