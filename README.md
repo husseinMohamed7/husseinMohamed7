@@ -106,12 +106,3 @@ Currently training at ITI (ICC) to build expertise in data pipelines, big data, 
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
-
----
-
-<h1 align="center">💰 Support My Work</h1>  
-<p align="center">
-  <a href="https://paypal.me/hussein7m">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-  </a>
-</p>
