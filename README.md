@@ -7,8 +7,6 @@
 <h2 align="center">Human</h2>
 
 
----
-
 <h1 align="center">🛠 Skills</h1>  
 
 <h3 align="center">Data Engineering & Analytics</h1>  
