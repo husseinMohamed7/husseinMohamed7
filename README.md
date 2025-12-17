@@ -7,8 +7,7 @@
 <h2 align="center">Data Engineering Trainee @ ITI</h2>
 
 <h3 align="center">
-Computer & Systems Engineering graduate passionate about Data Engineering, Systems Design, and Problem Solving.  
-Currently training at ITI (ICC) to build expertise in data pipelines, big data, and system optimization.
+Human
 </h3>
 
 ---
