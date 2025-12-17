@@ -4,11 +4,8 @@
 
 
 
-<h2 align="center">Data Engineering Trainee @ ITI</h2>
+<h2 align="center">Human</h2>
 
-<h3 align="center">
-Human
-</h3>
 
 ---
 
